@@ -24,8 +24,8 @@ animation: pipe-animation 1.5s infinite linear;
 .bicho {
     position: absolute;
     bottom: 0;
-    width: 50px;
-    left: 500px;
+    width: 100px;
+    left: 100px;
 }
 
 .mario {
